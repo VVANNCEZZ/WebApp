@@ -1,7 +1,6 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
-import 'swiper/css/pagination'; // Удалите эту строку
 import patientAvatar from '../../assets/images/patient-avatar.png';
 import { HiStar } from 'react-icons/hi'
 

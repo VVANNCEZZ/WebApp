@@ -147,7 +147,7 @@ const Home = () => {
               <li className="text__para">2. Найдите своего лечащего врача здесь и свяжитесь с его офисом.</li>
               <li className="text__para">3. Ознакомьтесь с нашими врачами, которые принимают новых пациентов, используйте инструмент онлайн-планирования, чтобы выбрать время приёма.</li>
             </ul>
-            <Link to='/'><button className='btn'>Узнать больше</button></Link>
+            <Link to='/doctors'><button className='btn'>Узнать больше</button></Link>
           </div>
           <div className='relative z-10 xl:w-[770px] flex justify-end mt-[50px] lg:mt-0'>
             <img src={featureImg} className='w-3/4' alt="" />
